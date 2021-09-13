@@ -1,2 +1,3 @@
-# aakashanand95.github.io
-My website
+# Aakash Anand  
+
+Ph.D. student at IISER Pune. Working with Prof. Arijit Bhattacharyay on Statistical Mechanics.
